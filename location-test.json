@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Adega Zeus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65814161300659,
+          -23.53914358283295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.659536361694336,
+              -23.538543581672716
+            ],
+            [
+              -46.659042835235596,
+              -23.54006816942601
+            ],
+            [
+              -46.6568648815155,
+              -23.539350139976083
+            ],
+            [
+              -46.657583713531494,
+              -23.53805177540183
+            ],
+            [
+              -46.659536361694336,
+              -23.538543581672716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.660051345825195,
+              -23.52869727005502
+            ],
+            [
+              -46.65897846221924,
+              -23.529798991883258
+            ],
+            [
+              -46.6573691368103,
+              -23.528598901586086
+            ],
+            [
+              -46.65872097015381,
+              -23.527477495842927
+            ],
+            [
+              -46.660051345825195,
+              -23.52869727005502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#002aff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Adega Poseidon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65599584579468,
+          -23.527536517436058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0008ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0008ff",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.659343242645264,
+              -23.52755619129457
+            ],
+            [
+              -46.65751934051514,
+              -23.52934650010577
+            ],
+            [
+              -46.65451526641846,
+              -23.52743814809946
+            ],
+            [
+              -46.65666103363037,
+              -23.525588790885845
+            ],
+            [
+              -46.659343242645264,
+              -23.52755619129457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0400ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#001eff",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.657068729400635,
+              -23.537156683269835
+            ],
+            [
+              -46.65586709976196,
+              -23.539163254955792
+            ],
+            [
+              -46.652863025665276,
+              -23.53798292237715
+            ],
+            [
+              -46.654794216156006,
+              -23.535740261297057
+            ],
+            [
+              -46.657068729400635,
+              -23.537156683269835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65825963020325,
+          -23.528274285116876
+        ]
+      }
+    }
+  ]
+}
